@@ -309,7 +309,7 @@ Součástí Aristetol. logiky jsou sylogismy a Vennovy diagramy. <br /><br /><br
 ### 1) Pro formuli $p \supset (q \lor \neg q)$
 💚 Je splnitelná (v pravdivostní tabulce má aspoň jeden řádek na konci jedničku, tato formule je dokonce tautologie) <br />
 💚 Je ekvivalentní s formulí $(p \land q) \supset q$ (obě formule mají stejné výsledky pravdivostní tabulky – jsou tautologiemi) <br />
-💚 Je ekvivalentní s formulí $q \supset (\neg p \lor p) $ (obě formule mají stejné výsledky pravdivostní tabulky – jsou tautologiemi) <br />
+💚 Je ekvivalentní s formulí $q \supset (\neg p \lor p)$ (obě formule mají stejné výsledky pravdivostní tabulky – jsou tautologiemi) <br />
 💚 Je logicky pravdivá, neboť konsekvent implikace je v každé valuaci výrokové proměnné q pravdivý. <br />
 💥 Její negace je splnitelná formule (její negace je kontradikce, přotože původní je tautologie)
 
